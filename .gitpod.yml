@@ -1,0 +1,5 @@
+additionalRepositories:
+  - url: https://github.com/kboduch/gitpod-dep
+    checkoutLocation: projects/dep
+  
+  
